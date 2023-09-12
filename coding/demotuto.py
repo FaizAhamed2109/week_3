@@ -41,7 +41,7 @@ turta.pendown() # Used for not making the pen create a mark
 turta.right(90) #Used for turning the cursor clockwise
 turta.forward(200)
 
-turta.goto(10,200)
+turta.goto(10, 100)
 turta.forward(100)
 
 turtle.done() # This can be also written as win.exitonclick() OR win.bye()
