@@ -15,35 +15,34 @@ turta.pencolor("white") #changing the turta colour
 turta.speed(1) #setting the speed of the cursor movement from 0 to 200 (1-slowest) & (10-fastest)
 turta.shape("turtle") # setting the shape of the turtle
 
-# turta.forward(200) #You can also use turta.fd(200) ---> used for moving the cursor forward
-# # turta.backward(100)
+turta.forward(200) #You can also use turta.fd(200) ---> used for moving the cursor forward
+# turta.backward(100)
 
 
-# turta.right(90) #Used for turning the cursor clockwise
-# turta.forward(200)
+turta.right(90) #Used for turning the cursor clockwise
+turta.forward(200)
 
-# turta.right(90) #Used for turning the cursor clockwise
-# turta.forward(200)
+turta.right(90) #Used for turning the cursor clockwise
+turta.forward(200)
 
-# turta.penup()
-# turta.right(90) #Used for turning the cursor clockwise
-# turta.forward(200)
+turta.penup()
+turta.right(90) #Used for turning the cursor clockwise
+turta.forward(200)
 
-# turta.left(90) #Used for turning the cursor anit-clockwise
-# turta.forward(200)
+turta.left(90) #Used for turning the cursor anit-clockwise
+turta.forward(200)
 
-# turta.right(90) #Used for turning the cursor clockwise
-# turta.forward(200)
+turta.right(90) #Used for turning the cursor clockwise
+turta.forward(200)
 
-# turta.right(90) #Used for turning the cursor clockwise
-# turta.forward(200)
+turta.right(90) #Used for turning the cursor clockwise
+turta.forward(200)
 
-# turta.pendown() # Used for not making the pen create a mark
-# turta.right(90) #Used for turning the cursor clockwise
-# turta.forward(200)
+turta.pendown() # Used for not making the pen create a mark
+turta.right(90) #Used for turning the cursor clockwise
+turta.forward(200)
 
-
-turta.goto(10, 100)
+turta.goto(100, 100)
 turta.forward(100)
 
  
